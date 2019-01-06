@@ -1,0 +1,2304 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Mahabharata</command>
+        <result xml:space="preserve">
+
+
+Mahabharata
+An Interactive Fiction by lizzard
+Release 1 / Serial number 181217 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+            <child nodeId="node-1067"></child>
+            <child nodeId="node-1060"></child>
+            <child nodeId="node-1046"></child>
+            <child nodeId="node-1043"></child>
+            <child nodeId="node-1027"></child>
+            <child nodeId="node-1003"></child>
+        </children>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Lotus Pond
+Lofty trees shade the crystal clear pools of water, filled with fish and flowers.  Songbirds flit from tree to tree, warbling in the fragrant, breezy air.  Around the main lotus pond, the marble flagstones are cool even in the hot sun of midday.
+
+You can see a crystal lotus flower and a pale lotus flower here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+            <child nodeId="node-1004"></child>
+            <child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">take flower</command>
+        <result xml:space="preserve">Which do you mean, the crystal lotus flower or the pale lotus flower?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">crystal</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">drop crystal</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+In the Pond
+The crystal waters swirl around you, but somehow you are able to breathe. Lotus blossoms like gleaming moonlight rest softly in the waters as brightly colored fish nibble at your toes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Lotus Pond
+Lofty trees shade the crystal clear pools of water, filled with fish and flowers.  Songbirds flit from tree to tree, warbling in the fragrant, breezy air.  Around the main lotus pond, the marble flagstones are cool even in the hot sun of midday.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+North Hall of the Palace
+A thousand columns of gold rise to the heavens, surrounded with white marble and pearls.  Across the floor to the south, a stream of crystal flows and bubbles, filled with jeweled fish and glass water lilies.
+
+Subhadra is here, combing her long dark hair.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+Kunti gazes out over the camp, reciting a holy mantra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Vast Army Camp
+The vast camp of the Pandavas is in a festive confusion, crawling with excited men.  It looks like the ocean at moonrise, with whirlpools of milling crowds, and chariots, elephants, and horses as the fish, the conches and drums as the roar of the waves, the spotless weapons as foam on the sea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Echoing Battlefield
+The field of battle echoes with the sounds of noble conch shells blown by the warrior lords.  Horns of brass, drums and gongs and cymbals accompany the trumpets of crazed elephants, and the clash of the bright swords of the heroes.
+
+Ghatotkatcha is rushing madly into battle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Confusing Battlefield
+The earth is strewn with bodies and bright weapons, red with blood. As if drunk on blood the world swirls with confusion and noise.
+
+A handsome, dark man with golden eyes is here.
+
+A fair-haired man with golden eyes is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+In the Pond
+The crystal waters swirl around you, but somehow you are able to breathe. Lotus blossoms like gleaming moonlight rest softly in the waters as brightly colored fish nibble at your toes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">exa</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">exits</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Lotus Pond
+Lofty trees shade the crystal clear pools of water, filled with fish and flowers.  Songbirds flit from tree to tree, warbling in the fragrant, breezy air.  Around the main lotus pond, the marble flagstones are cool even in the hot sun of midday.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+            <child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">   e</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dusty Battlefield
+The derangement of war swirls madly all around.  Dust dims the light, and wooden chariots splinter as the armies crash together.  You hear woeful shouts and cries and the bones of warriors break cruelly under the bright metal.
+
+Bhima scowls ferociously at you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bloody Battlefield
+The blood-soaked earth is covered with fans and chains, broken spears and wheels, swords and rings, arrows and bells, dead flowers adorning fallen heads whose open mouths are filled with bright blood.
+
+Sikhandin seeks to avenge herself on Bhishma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Raging Battlefield
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Vulture-haunted Battlefield
+Overhead, the sky is crowded with thunderclouds, the chariots of the gods who have come to watch the battle.  Vultures and ravens croak as they circle endlessly in the dusty sky.
+
+This tall proud man rides his bull elephant into war.
+
+A vulture circles warily overhead.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">look man</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">look at man</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">look at person</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Lotus Pond
+Lofty trees shade the crystal clear pools of water, filled with fish and flowers.  Songbirds flit from tree to tree, warbling in the fragrant, breezy air.  Around the main lotus pond, the marble flagstones are cool even in the hot sun of midday.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+North Hall of the Palace
+A thousand columns of gold rise to the heavens, surrounded with white marble and pearls.  Across the floor to the south, a stream of crystal flows and bubbles, filled with jeweled fish and glass water lilies.
+
+Subhadra is here, combing her long dark hair.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+Kunti gazes out over the camp, reciting a holy mantra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">look at kunti</command>
+        <result xml:space="preserve">This mature and beautiful woman is wearing a costly sari.  She is the mother of Yudisthira, Arjuna, and Bhima.  Karna is also her son.  She was the first wife of Pandu, but since he could not love her without dying, she used her powerful mantra to call down the gods as fathers to her children.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dusty Battlefield
+The derangement of war swirls madly all around.  Dust dims the light, and wooden chariots splinter as the armies crash together.  You hear woeful shouts and cries and the bones of warriors break cruelly under the bright metal.
+
+Bhima scowls ferociously at you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Archers' Battlefield
+A hail of arrows descend upon the massed armies, as great heroes rush into battle, shouting the names of their families and the names of the enemies they have killed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+Krsna is driving Arjuna's chariot and giving him advice.
+
+Arjuna bends his bow as he gazes into the battlefield.
+
+This noble spotted horse is the color of flickering flames.
+
+Karna stands tall in his resplendent armor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">examine krsna</command>
+        <result xml:space="preserve">This noble prince is the sworn friend of Arjuna.  He is driving his chariot and fighting next to him in the battle.  Some think he is an avatar of the Divine Krishna, because of his amazing power and wisdom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+North Hall of the Palace
+A thousand columns of gold rise to the heavens, surrounded with white marble and pearls.  Across the floor to the south, a stream of crystal flows and bubbles, filled with jeweled fish and glass water lilies.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Lotus Pond
+Lofty trees shade the crystal clear pools of water, filled with fish and flowers.  Songbirds flit from tree to tree, warbling in the fragrant, breezy air.  Around the main lotus pond, the marble flagstones are cool even in the hot sun of midday.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Striped Tent
+This nicely furnished tent seems like a good place for a nap.  The air is cool, free from the dust of the battlefield.  Large pillows are spread with embroidered silken coverlets, and on a low table a lamp is burning.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">look at yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating. He is wearing a golden moon and planets shield, and carrying unlucky dice and dharma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+            <child nodeId="node-1096"></child>
+            <child nodeId="node-1076"></child>
+            <child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+North Hall of the Palace
+A thousand columns of gold rise to the heavens, surrounded with white marble and pearls.  Across the floor to the south, a stream of crystal flows and bubbles, filled with jeweled fish and glass water lilies.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Vast Army Camp
+The vast camp of the Pandavas is in a festive confusion, crawling with excited men.  It looks like the ocean at moonrise, with whirlpools of milling crowds, and chariots, elephants, and horses as the fish, the conches and drums as the roar of the waves, the spotless weapons as foam on the sea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+        </children>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Echoing Battlefield of Kurukshetra
+The field of battle echoes with the sounds of noble conch shells blown by the warrior lords.  Horns of brass, drums and gongs and cymbals accompany the trumpets of crazed elephants, and the clash of the bright swords of the heroes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Confusing Battlefield of Kurukshetra
+The earth is strewn with bodies and bright weapons, red with blood. As if drunk on blood the world swirls with confusion and noise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Corpse-strewn Battlefield of Kurukshetra
+Severed hands clutch iron-bright swords like tigers" claws, scattered across the ground.  The headless stumps of dead men's bodies seem to be searching for their lives, stolen on this doomed, immortal battlefield.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Vulture-haunted Battlefield of Kurukshetra
+Overhead, the sky is crowded with thunderclouds, the chariots of the gods who have come to watch the battle.  Vultures and ravens croak as they circle endlessly in the dusty sky.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Raging Battlefield of Kurukshetra
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bloody Battlefield of Kurukshetra
+The blood-soaked earth is covered with fans and chains, broken spears and wheels, swords and rings, arrows and bells, dead flowers adorning fallen heads whose open mouths are filled with bright blood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Raging Battlefield of Kurukshetra
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Battlefield Under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield Under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+River of Blood
+The river runs red with blood, and even the low palm fronds that dip into its waters are crimson-dyed.  You feel a sense of great foreboding.  Anything could lurk in these swirling depths.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+            <child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+Kunti gazes out over the camp, reciting a holy mantra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+            <child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Striped Tent
+This nicely furnished tent seems like a good place for a nap.  The air is cool, free from the dust of the battlefield.  Large pillows are spread with embroidered silken coverlets, and on a low table a lamp is burning.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+            <child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">look at yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating. He is wearing a golden moon and planets shield and carrying unlucky dice and dharma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+            <child nodeId="node-1101"></child>
+            <child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">look at shield</command>
+        <result xml:space="preserve">A shield with a golden moon and planets
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">examine yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">examine shield</command>
+        <result xml:space="preserve">A shield with a golden moon and planets
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Noble Tent
+This tent is furnished richly with thick, gold-embroidered carpets and low tables with flickering silver lamps.  Before a portable wooden altar, a young woman is meditating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Noble Tent
+This tent is furnished richly with thick, gold-embroidered carpets and low tables with flickering silver lamps.  Before a portable wooden altar, a young woman is meditating.
+
+Draupadi waits for her husbands to return from battle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+            <child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+Kunti gazes out over the camp, reciting a holy mantra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">look at draupadi</command>
+        <result xml:space="preserve">Draupadi is married to the 5 Pandavas: Yudisthira, Bhima, Arjuna, Nakula and Sahadeva. She is renowned for her noble beauty and her flawless logic in matters of law and religion. She is wearing an endless sari, and carrying amazing legal expertise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+Kunti gazes out over the camp, reciting a holy mantra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Noble Tent
+This tent is furnished richly with thick, gold-embroidered carpets and low tables with flickering silver lamps.  Before a portable wooden altar, a young woman is meditating.
+
+Draupadi waits for her husbands to return from battle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">look at draupadi</command>
+        <result xml:space="preserve">Draupadi is married to the 5 Pandavas: Yudisthira, Bhima, Arjuna, Nakula and Sahadeva. She is renowned for her noble beauty and her flawless logic in matters of law and religion. She is wearing nothing, and carrying a knowledge of the law and wears an endless sari.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+            <child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shining Battlefield of Kurukshetra
+The metal shields of the gathered armies are shining in the light as men rush towards each other like the waves of the sea rush to meet the shore. Nearby, war elephants clash like fighting storm clouds.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Tents
+This level field has plentiful grass and kindling wood, a safe and auspicious location for a camp.  The ground gently slopes to the holy river Hiranvati, to the north.  Tents, carts, chariot axles, fodder, wagon surgeons, and brothel tents wave their colorful pennants in the breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Shores of the Holy River Hiranvati
+The river Hiranvati flows easily, with water that is pure and clear of pebbles and mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Striped Tent
+This nicely furnished tent seems like a good place for a nap.  The air is cool, free from the dust of the battlefield.  Large pillows are spread with embroidered silken coverlets, and on a low table a lamp is burning.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">look at yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dusty Battlefield
+The derangement of war swirls madly all around.  Dust dims the light, and wooden chariots splinter as the armies crash together.  You hear woeful shouts and cries and the bones of warriors break cruelly under the bright metal.
+
+Bhima scowls ferociously at you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+            <child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Confusing Battlefield
+The earth is strewn with bodies and bright weapons, red with blood. As if drunk on blood the world swirls with confusion and noise.
+
+Nakula, a handsome, dark man with golden eyes is here.
+
+Sahadeva, a fair-haired man with golden eyes is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+            <child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Echoing Battlefield of Kurukshetra
+The field of battle echoes with the sounds of noble conch shells blown by the warrior lords.  Horns of brass, drums and gongs and cymbals accompany the trumpets of crazed elephants, and the clash of the bright swords of the heroes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Confusing Battlefield of Kurukshetra
+The earth is strewn with bodies and bright weapons, red with blood. As if drunk on blood the world swirls with confusion and noise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Corpse-strewn Battlefield
+Severed hands clutch iron-bright swords like tigers" claws, scattered across the ground.  The headless stumps of dead men's bodies seem to be searching for their lives, stolen on this doomed, immortal battlefield.
+
+Abhimanyu is still a boy, but he wears full armor into the battle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bloody Battlefield
+The blood-soaked earth is covered with fans and chains, broken spears and wheels, swords and rings, arrows and bells, dead flowers adorning fallen heads whose open mouths are filled with bright blood.
+
+Sikhandin seeks to avenge herself on Bhishma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Raging Battlefield
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+Drona, the wise teacher, is in the midst of battle.
+
+Dhristadyumna laughs horribly as he fights.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">look drona</command>
+        <result xml:space="preserve">Drona's arms are covered in white sandalwood paste; his matted silver hair tumbles about his face.  He aims his heron-feathered silver arrows with keen concentration.  The Pandus do not dare to kill him, since he is their beloved and respected teacher.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Raging Battlefield
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+Drona, the wise teacher, is in the midst of battle.
+
+Dhristadyumna laughs horribly as he fights.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Battlefield under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+Kripa, the mighty archer, is here.
+
+Ashvatthaman rides his black chariot across the field.
+
+A white stallion snorts and paws a front hoof.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+Krsna is driving Arjuna's chariot and giving him advice.
+
+Arjuna bends his bow as he gazes into the battlefield.
+
+This noble spotted horse is the color of flickering flames.
+
+Karna stands tall in his resplendent armor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Archers' Battlefield
+A hail of arrows descend upon the massed armies, as great heroes rush into battle, shouting the names of their families and the names of the enemies they have killed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Dusty Battlefield
+The derangement of war swirls madly all around.  Dust dims the light, and wooden chariots splinter as the armies crash together.  You hear woeful shouts and cries and the bones of warriors break cruelly under the bright metal.
+
+Bhima scowls ferociously at you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Battlefield of Kurukshetra
+The once fertile plains are covered with a scene of death and destruction.  Armies still stand with banners flying proudly in the wind, and the scent of blood is never far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Vast Army Camp
+The vast camp of the Pandavas is in a festive confusion, crawling with excited men.  It looks like the ocean at moonrise, with whirlpools of milling crowds, and chariots, elephants, and horses as the fish, the conches and drums as the roar of the waves, the spotless weapons as foam on the sea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pandava Army Camp
+The roar of a huge army echoes like the ocean at the full moon, in this battle-ready camp.  Amidst the bustle, the fully armed fighters are ready to rend the enemy ranks, weapons bristling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Palace of the Pandavas
+By the front door of this marvelous palace, a gem-studded tree shines with the lights of emerald and beryl.  Veins of gold flash deeply like fire, and strands of pearl seem to outshine the moon.  The marble walls of the palace, and its golden columns, seem to reach to the heavens.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+Yudisthira is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">look at yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating. He is wearing a golden moon and planets shield, and carrying unlucky dice and dharma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">purloin dice</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  unlucky dice
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">examine dice</command>
+        <result xml:space="preserve">You see nothing special about unlucky dice.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">look at yudishtira</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">look at Yudisthira</command>
+        <result xml:space="preserve">Yudisthira has a noble, broad forehead and is dressed in a simple robe. His face is deeply lined with care and pain, but he smiles serenely at you. He almost seems to be meditating. He is wearing a golden moon and planets shield, and carrying dharma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">give dice to Yudisthria</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">give dice to Yudisthira</command>
+        <result xml:space="preserve">Yudisthira doesn't seem interested.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">drop dice</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">South Hall of the Palace
+The open windows of this cool marble palace are covered in thin networks of pure gold, twining like vines with leaves of emerald and blossoms of scarlet coral.  Lamps of softly shining gems illuminate the fine scarlet and gold carpets and the darkly polished, inlaid wooden furniture.
+
+Yudisthira is here.
+
+You can also see unlucky dice here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bloody Battlefield
+The blood-soaked earth is covered with fans and chains, broken spears and wheels, swords and rings, arrows and bells, dead flowers adorning fallen heads whose open mouths are filled with bright blood.
+
+Sikhandin seeks to avenge herself on Bhishma.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Raging Battlefield
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+Drona, the wise teacher, is in the midst of battle.
+
+Dhristadyumna laughs horribly as he fights.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+            <child nodeId="node-1216"></child>
+            <child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Vulture-haunted Battlefield of Kurukshetra
+Overhead, the sky is crowded with thunderclouds, the chariots of the gods who have come to watch the battle.  Vultures and ravens croak as they circle endlessly in the dusty sky.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Raging Battlefield of Kurukshetra
+Ten thousand arrows with fiery mouths, one hundred thousand swords and maces and axes, a million razor-edged wheels spinning, all fly through the air gleaming.  The battle rages all around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Battlefield under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+Kripa, the mighty archer, is here.
+
+Ashvatthaman rides his black chariot across the field.
+
+A white stallion snorts and paws a front hoof.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hill of Kurukshetra
+This hill is still green and covered with flowers, though it overlooks a scene of grim death, smoke, and fire.  From the heavens you hear the delicate laughter of the Apsarasas and see the light glinting off the jewels on their breasts, as they welcome the dead heroes.
+
+Bhishma is here sending a hail of arrows into battle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pavilion of the Kuru King
+From the pavilion you can look out across the hill to the smoky, noisy battlefield of Kurukshetra.  Inside, all is cool and calm, with golden thrones fanned by palm leaves and yak-tail fans held by the lotus eyed, slender waisted attendants of the royal family.  Above the roof, storm clouds are gathered, dark and fierce as charging war elephants.
+
+Gandhari waits patiently, wearing her blindfold.
+
+The blind Kuru king, Dhritarastra, waits for news.
+
+Sanjaya, charioteer and war reporter, is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+        </children>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Roof of the Kuru Pavilion
+Dark clouds boil around you, thick with rain.  It almost seems that you could step up into the storm and ride the chariots of the thunder god.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Cloud Chariot
+Like coal-black horses with gleaming flanks, the clouds carry you across the stormy sky.  Below, the battle rages on.
+
+Lakshmi, the goddess of fortune, smiles upon you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+        </children>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Heavenly Overlook
+A tall mountain of illusions rises above the clouds, filled with rakashas and apsarasas hooting as they watch the bloody battle of Kurukshetra.
+
+Agni, lord of fire, stares at you with yellow eyes.
+
+Surya, the sun god, is driving his one-wheeled chariot.
+
+Hidimbi, a beautiful but terrifying rakshasa, is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Thundercloud
+Arrows of fire dart across this tall black cloud.  The chariots of the gods are close together here, and their clashing wheels strike fiery sparks.
+
+Indra looks down upon the raging battle.
+
+Airavata, the lord of elephants, trumpets wildly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Chariot in the Clouds
+Below on the battlefield, the rules of war are broken as men flee in horror, crushed by elephants.  The smell of fresh blood rises in the air.
+
+Kali is dancing to the sound of terrible screams.
+
+Yama, a terrifying green-skinned man grins at you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Thundercloud
+Arrows of fire dart across this tall black cloud.  The chariots of the gods are close together here, and their clashing wheels strike fiery sparks.
+
+Indra looks down upon the raging battle.
+
+Airavata, the lord of elephants, trumpets wildly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Heavenly Overlook
+A tall mountain of illusions rises above the clouds, filled with rakashas and apsarasas hooting as they watch the bloody battle of Kurukshetra.
+
+Agni, lord of fire, stares at you with yellow eyes.
+
+Surya, the sun god, is driving his one-wheeled chariot.
+
+Hidimbi, a beautiful but terrifying rakshasa, is here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Mount Kailasa
+The mountain slopes up higher than you can climb.  Lotus pools fill the small valleys alive with birds and chattering monkeys.  Through the damp trees and vines, the scent of flowers rises in the gentle mist, and the battle seems far away.
+
+Shiva is here, his serene brow adorned with a crescent moon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">look at shiva</command>
+        <result xml:space="preserve">Shiva is sitting in a posture of serene meditation.  His brow bears a shining crescent moon and there are flowers in his hair.  His skin is a luminescent white, smeared with ashes.  Shiva is wearing a crescent moon, shining snake armlets, a garland of pearls, a writhing snake, a gleaming tiger skin and lively snake anklets and carries divine insight and a spear Pasupata.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Battlefield Under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+            <child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+River of Blood
+The river runs red with blood, and even the low palm fronds that dip into its waters are crimson-dyed.  You feel a sense of great foreboding.  Anything could lurk in these swirling depths.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Mud on the Battlefield
+Blood has run freely here.  The hooves of a thousand flame-colored horses have churned the dark earth and blood of heroes into a thick mud.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Battlefield Under the Mountain
+Overhead, a high mountain seems to be floating in the sky, covered with cliffs and trees.  The roars of lions and tigers, leopards and wolves echo down like arrows of sound.  Iron-billed falcons and fiery-tongued snakes rain down from the mountain like meteors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hill of Kurukshetra
+This hill is still green and covered with flowers, though it overlooks a scene of grim death, smoke, and fire.  From the heavens you hear the delicate laughter of the Apsarasas and see the light glinting off the jewels on their breasts, as they welcome the dead heroes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pavilion of the Kuru King
+From the pavilion you can look out across the hill to the smoky, noisy battlefield of Kurukshetra.  Inside, all is cool and calm, with golden thrones fanned by palm leaves and yak-tail fans held by the lotus eyed, slender waisted attendants of the royal family.  Above the roof, storm clouds are gathered, dark and fierce as charging war elephants.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Roof of the Kuru Pavilion
+Dark clouds boil around you, thick with rain.  It almost seems that you could step up into the storm and ride the chariots of the thunder god.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Cloud Chariot
+Like coal-black horses with gleaming flanks, the clouds carry you across the stormy sky.  Below, the battle rages on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Heavenly Overlook
+A tall mountain of illusions rises above the clouds, filled with rakashas and apsarasas hooting as they watch the bloody battle of Kurukshetra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hill of Kurukshetra
+This hill is still green and covered with flowers, though it overlooks a scene of grim death, smoke, and fire.  From the heavens you hear the delicate laughter of the Apsarasas and see the light glinting off the jewels on their breasts, as they welcome the dead heroes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Pavilion of the Kuru King
+From the pavilion you can look out across the hill to the smoky, noisy battlefield of Kurukshetra.  Inside, all is cool and calm, with golden thrones fanned by palm leaves and yak-tail fans held by the lotus eyed, slender waisted attendants of the royal family.  Above the roof, storm clouds are gathered, dark and fierce as charging war elephants.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Roof of the Kuru Pavilion
+Dark clouds boil around you, thick with rain.  It almost seems that you could step up into the storm and ride the chariots of the thunder god.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Cloud Chariot
+Like coal-black horses with gleaming flanks, the clouds carry you across the stormy sky.  Below, the battle rages on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Heavenly Overlook
+A tall mountain of illusions rises above the clouds, filled with rakashas and apsarasas hooting as they watch the bloody battle of Kurukshetra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Mount Kailasa
+The mountain slopes up higher than you can climb.  Lotus pools fill the small valleys alive with birds and chattering monkeys.  Through the damp trees and vines, the scent of flowers rises in the gentle mist, and the battle seems far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+On a Tree Limb Over an Abyss
+An ancient tree stretches out its limbs, festooned with flowering vines. Below, a crumbling cliff drops thousands of feet.  The leaves overhead form a pleasant, cool canopy, lulling you with their gentle rustling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Mount Kailasa
+The mountain slopes up higher than you can climb.  Lotus pools fill the small valleys alive with birds and chattering monkeys.  Through the damp trees and vines, the scent of flowers rises in the gentle mist, and the battle seems far away.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Heavenly Overlook
+A tall mountain of illusions rises above the clouds, filled with rakashas and apsarasas hooting as they watch the bloody battle of Kurukshetra.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Thundercloud
+Arrows of fire dart across this tall black cloud.  The chariots of the gods are close together here, and their clashing wheels strike fiery sparks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Chariot in the Clouds
+Below on the battlefield, the rules of war are broken as men flee in horror, crushed by elephants.  The smell of fresh blood rises in the air.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
